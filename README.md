@@ -23,8 +23,7 @@
    </tr>
    <tr>
     <td colspan="2"></td>
-    <td width="450" height="100">8</td>
-    </tr>
+ </tr>
 </table>
 </body>
 </html>
