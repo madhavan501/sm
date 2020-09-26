@@ -15,10 +15,10 @@
       <td width="450" height="100">1</td>
    </tr>
    <tr> 
-      <td rowspan="2" width="450" height="100">9</td>
+      <td width="450" height="100">9</td>
  </tr>
    <tr>
-      <td width="450" height="100">5</td>
+      <td  rowspan="3" width="450" height="100">5</td>
    </tr>
    <tr>
     <td colspan="2" width="450" height="100"></td>
