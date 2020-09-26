@@ -9,7 +9,6 @@
    </tr>
    <tr>
       <td rowspan="5" width="450" height="100 ></td>
-      <td width="450" height="100"></td>
      <td width="450" height="100">500000</td>
    </tr>
    <tr>
