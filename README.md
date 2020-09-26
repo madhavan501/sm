@@ -14,7 +14,7 @@
    </tr>
    <tr>
       <td></td>
-      <td> <img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjyueY5IDm4wu8dSfG7QP9LEpnC_MS2iurXA&usqp=CAU;" alt="google image"></td>
+      <td> <img scr="https://i2.cdn.turner.com/money/dam/assets/150831165127-google-05-08-2010-to-09-18-2013-780x439.png" alt="google_image"></td>
      <td width="450" height="100"></td>
    </tr>
    <tr>
