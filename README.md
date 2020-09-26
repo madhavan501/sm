@@ -8,7 +8,7 @@
       <th colspan="2"width="450" height="100"></th>
    </tr>
     <tr>
-      <td></td>
+      <td width="450" height="100"></td>
       <td><img scr="https://www.moralstories.org/wp-content/uploads/2017/11/blind-man-moral-story.jpg" alt="google">
      <td width="450" height="100"></td>
    </tr>
