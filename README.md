@@ -14,7 +14,7 @@
    </tr>
    <tr>
       <td></td>
-      <td> <img scr="https://i2.cdn.turner.com/money/dam/assets/150831165127-google-05-08-2010-to-09-18-2013-780x439.jpg" alt="google_image"></td>
+      <td> <img scr="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2016/02/01/420940-google-cropped.jpg" alt="google_image"></td>
      <td width="450" height="100"></td>
    </tr>
    <tr>
