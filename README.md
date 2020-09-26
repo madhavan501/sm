@@ -5,13 +5,13 @@
  <body> 
    <table border="1"> 
    <tr>
-      <th colspan="2"width="450" height="100"></th>
+      <th colspan="2" rowspan="5" width="450" height="100"></th>
       <th width="450" height="100"></th>
    </tr>
     <tr>
-      <td rowspan="5" width="450" height="100"></td>
+      <td  width="450" height="100"></td>
       <td width="450" height="100"><img scr="https://www.moralstories.org/wp-content/uploads/2017/11/blind-man-moral-story.jpg" alt="google">
-     
+    <td width="450" height="100">100000</td>
    </tr>
    <tr>
       <td width="450" height="100">100000</td>
