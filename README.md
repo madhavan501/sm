@@ -5,7 +5,7 @@
  <body> 
    <table border="1"> 
    <tr>
-      <th colspan="2">Expenses</th>
+      <th colspan="2"></th>
    </tr>
    <tr>
       <td>Product Development</td>
