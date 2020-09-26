@@ -22,7 +22,7 @@
      <td rowspan="2" width="450" height="100">5</td>
    </tr>
    <tr>
-    <td colspan="2"></td>
+    <td colspan="2" width="450" height="100"></td>
  </tr>
 </table>
 </body>
