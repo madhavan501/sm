@@ -16,8 +16,7 @@
    </tr>
    <tr> 
       <td width="450" height="100"> 
-       <button type="button" onclick="alert('Hello world!')" >click me!</button>
-    </td
+     </td
  </tr>
       <tr> 
       <td width="450" height="100">4</td>
