@@ -30,11 +30,11 @@
    <tr>
       <td></td>
       <td>100000</td>
-     <td width="450" height="100">500000</td>
+     <td width="450" height="100"></td>
    </tr>
    <tr>
       <td colspan="2"></td>
-    <td width="450" height="100">500000</td>
+    <td width="450" height="100"></td>
     
    </tr>
 </table>
