@@ -1,19 +1,13 @@
 <html> 
-  
-<head> 
-    <title> 
-        HTML col width Attribute 
-    </title> 
+ <head> 
+  <h1>google layout</h1> 
 </head> 
-  
-<body> 
-    <h1>GeeksforGeeks</h1> 
-  <h2>HTML col width Attribute</h2> 
-  <table border="1"> 
+ <body> 
+   <table border="1"> 
      <caption>Author Details</caption> 
-  <col width="150"> 
-            <col width="80"> 
-                <col width="120"> 
+  <col width="500"> 
+            <col width="500"> 
+                <col width="500"> 
                     <tr> 
                         <th>NAME</th> 
                         <th>AGE</th> 
