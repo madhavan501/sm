@@ -7,7 +7,7 @@
    <tr>
       <th colspan="2"></th>
    </tr>
-   <tr rowspan="5">
+   <tr>
       <td width="450" height="100"></td>
       <td width="450" height="100"></td>
      <td width="450" height="100">500000</td>
