@@ -16,7 +16,8 @@
      <td width="450" height="100"></td>
    </tr>
    <tr> 
-      <td width="450" height="100"></td>
+      <td rowspan="2" width="450" height="100"></td>
+    
       <td width="450" height="100"></td>
    </tr>
    <tr>
