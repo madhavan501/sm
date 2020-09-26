@@ -6,6 +6,7 @@
    <table border="1"> 
    <tr>
       <th colspan="2"width="450" height="100"></th>
+      <th width="450" height="100"></th>
    </tr>
     <tr>
       <td width="450" height="100"></td>
