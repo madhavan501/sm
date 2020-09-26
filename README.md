@@ -8,8 +8,8 @@
       <th colspan="2"></th>
    </tr>
    <tr>
-      <td width="500">Product Development</td>
-      <td height="100">500000</td>
+      <td width="200" height="100">Product Development</td>
+      <td width="200" height="100">500000</td>
    </tr>
    <tr>
       <td>Marketing</td>
