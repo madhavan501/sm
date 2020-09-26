@@ -18,7 +18,9 @@
     <td height="100"><input type="text" size="30" ></td>
  </tr>
       <tr> 
-      <td width="450" height="100">4</td>
+      <td width="450" height="100"><input type="submit" value="Google Search" class="button">
+       <input type="submit" value="I'm feeling Lucky" class="button">
+       </td>
  </tr>
    
    <tr>
