@@ -33,8 +33,8 @@
      <td width="450" height="100">500000</td>
    </tr>
    <tr>
-       <td width="450" height="100">500000</td>
-      <td colspan="2">Total Budget = INR 1300000</td>
+      <td colspan="2"></td>
+    <td width="450" height="100">500000</td>
     
    </tr>
 </table>
