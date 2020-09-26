@@ -9,7 +9,7 @@
    </tr>
    <tr>
       <td width="500">Product Development</td>
-      <td height="500">500000</td>
+      <td height="100">500000</td>
    </tr>
    <tr>
       <td>Marketing</td>
