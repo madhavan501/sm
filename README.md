@@ -22,7 +22,6 @@
        <input type="submit" value="I'm feeling Lucky" class="button">
        </td>
  </tr>
-   
    <tr>
     <td colspan="2" width="450" height="100"></td>
    <td width="450" height="100">2</td>
