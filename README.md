@@ -15,7 +15,7 @@
       <td width="300" height="50"><img src="https://www.finsmes.com/wp-content/uploads/2016/09/google.jpg" alt="google"</td>
    </tr>
    <tr> 
-      <td height="100"><input type="text"></td
+      <td height="100"><input type='text' value='search'></td
  </tr>
       <tr> 
       <td width="450" height="100">4</td>
