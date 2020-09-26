@@ -13,27 +13,29 @@
      <td width="450" height="100">500000</td>
    </tr>
    <tr>
-      <td>Marketing</td>
+      <td></td>
       <td>500000</td>
-     <td width="450" height="100">500000</td>
+     <td width="450" height="100"></td>
    </tr>
    <tr>
-      <td>Services</td>
+      <td></td>
+      <td>100000</td>
+     <td width="450" height="100"></td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>100000</td>
+     <td width="450" height="100"></td>
+   </tr>
+   <tr>
+      <td></td>
       <td>100000</td>
      <td width="450" height="100">500000</td>
    </tr>
    <tr>
-      <td>Support</td>
-      <td>100000</td>
-     <td width="450" height="100">500000</td>
-   </tr>
-   <tr>
-      <td>Maintenance</td>
-      <td>100000</td>
-     <td width="450" height="100">500000</td>
-   </tr>
-   <tr>
+       <td width="450" height="100">500000</td>
       <td colspan="2">Total Budget = INR 1300000</td>
+    
    </tr>
 </table>
 </body>
